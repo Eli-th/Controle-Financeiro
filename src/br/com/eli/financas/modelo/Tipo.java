@@ -1,4 +1,5 @@
 package br.com.eli.financas.modelo;
-public enum tipo{
+
+public enum Tipo{
     RECEITA, DESPESA
 }
